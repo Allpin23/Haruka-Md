@@ -1,13 +1,13 @@
 {
-    "ownerNumber": ["0@s.whatsapp.net","0@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
+    "ownerNumber": ["089648311511@s.whatsapp.net","089648311511@s.whatsapp.net"],
+    "ownerName": "Pemilik bot:089648311511",
     "instagram" : "https://instagram.com/zeeoneofc",
-    "botName": "Haruka-Mdོ ",
-    "footer": "WhatsApp Bot",
+    "botName": "AlphinBotz",
+    "footer": "Pemilik bot:089648311511",
     "sessionName": "session",
     "pathimg": "./media/Haruka.jpg",
-    "gamewaktu": 90,
-    "limitCount": 25,
+    "gamewaktu": 30,
+    "limitCount": 10,
     "gcount": {
         "prem": 35,
         "user": 15
